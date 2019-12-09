@@ -1,0 +1,3 @@
+[submodule "datasets/UD_Dutch-LassySmall"]
+	path = datasets/UD_Dutch-LassySmall
+	url = git@github.com:UniversalDependencies/UD_Dutch-LassySmall.git
